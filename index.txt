@@ -1,0 +1,15 @@
+1. codes in python: this file folder contains the codes in python and can run in pycharm.
+1.1. basin_N3.py: this file computes the number of cells within the basins for different subtypes of equilibria in the system with N=3.
+1.2. basin_N4.py: this file computes the number of cells within the basins for different subtypes of equilibria in the system with N=4.
+1.3. basin_N6.py: this file computes the number of cells within the basins for different subtypes of equilibria in the system with N=6.
+1.4. basin_N7.py: this file computes the number of cells within the basins for different subtypes of equilibria in the system with N=7.
+1.5. initial_value.py: this file computes the solutions to the system with k=\sqrt2 and k_s=1 and different initial data.
+
+2. codes for python.txt: this file contains all code in the text format.
+
+3. data: this file folder contains the sampled initial data for computing the number of cells within the basins for different subtypes of equilibria, which are used in the paper and can be invoked in basin_N3.py and basin_N4.py. (Due to the size limit, we provide only the data for N=3 and N=4)
+3.1. 3_dimensional_grid.txt: this file contains the sampled initial data in the system with N=3. 
+3.2. 4_dimensional_grid.txt: this file contains the sampled initial data in the system with N=4.  
+
+The supplementary materials promote the usage of the proposed
+model and allow others to take better advantage of this research, and reproduce the results.
