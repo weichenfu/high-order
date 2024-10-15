@@ -10,6 +10,3 @@
 3. data: this file folder contains the sampled initial data for computing the number of cells within the basins for different subtypes of equilibria, which are used in the paper and can be invoked in basin_N3.py and basin_N4.py. (Due to the size limit, we provide only the data for N=3 and N=4)
 3.1. 3_dimensional_grid.txt: this file contains the sampled initial data in the system with N=3. 
 3.2. 4_dimensional_grid.txt: this file contains the sampled initial data in the system with N=4.  
-
-The supplementary materials promote the usage of the proposed
-model and allow others to take better advantage of this research, and reproduce the results.
